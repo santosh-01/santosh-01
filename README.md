@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Santosh Kumar Gouda</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Bangalore,India</h3>
 
@@ -28,3 +29,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-01&show_icons=true&locale=en" alt="santosh-01" /></p>
 
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=santosh-01">
+</a>
+<a href="https://github.com/santosh-01?tab=followers"><img src="https://img.shields.io/github/followers/santosh-01?label=Followers&style=social" alt="GitHub Badge"></a>

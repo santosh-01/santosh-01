@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Machine Learning , Deep Learning, Recommendation Engine**
 
-- 📫 How to reach me **santosh_7890@protonmaail.com**
+- 📫 How to reach me **santosh_7890@protonmail.com**
 
 - ⚡ Fun fact **Crazy about the Programming Py One Liners tricks**
 

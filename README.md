@@ -25,7 +25,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacofee santosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacofee santosh" /></a></p><br><br>
 
-<br><br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-01&show_icons=true&locale=en&layout=compact" alt="santosh-01" /></p>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-01&show_icons=true&locale=en&layout=compact" alt="santosh-01" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-01&show_icons=true&locale=en" alt="santosh-01" /></p>
 

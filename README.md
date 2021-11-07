@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, I'm Santosh Kumar Gouda</h1>
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Bangalore,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-01&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-01" /> </p>
